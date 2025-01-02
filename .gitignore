@@ -24,9 +24,32 @@
 *.lai
 *.la
 *.a
-*.lib
+
 
 # Executables
 *.exe
 *.out
 *.app
+
+*.lastbuildstate
+*.1.tlog
+*.log
+*.recipe
+*.user
+
+*.res
+*.pdb
+*.iobj
+*.idb
+*.ilk
+*.ipdb
+
+*.lib
+*.db
+*.suo
+*.lock
+*.vsidx
+
+*.lib
+*.ipch
+*.opendb
